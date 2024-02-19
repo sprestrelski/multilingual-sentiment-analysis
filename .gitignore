@@ -1,1 +1,3 @@
 ltcs180_textbook
+.venv/*
+.ipynb_checkpoints/*
