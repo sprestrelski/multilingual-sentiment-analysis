@@ -76,4 +76,21 @@ Project Workflow
 - Thai and Korean
 4. Filter down to specific events (search text for mention of specific events) 
 
-difference in sentiment of translated versus original?
+todo:
+- pick specific events
+- compare sentiment of analysis in different language
+- compare sentiment of analysis of english and other language
+- visualize the sentiments of news in different languages on a graph 
+
+
+- events
+    - world climate conference
+    - covid 
+    - sedan coup
+    - french election
+
+- for each event
+    - which languages are covering it?
+        - counts of language
+    - does the sentiment differ per language? 
+        - sentiment graph of language
