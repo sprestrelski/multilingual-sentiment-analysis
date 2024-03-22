@@ -1,0 +1,255 @@
+{
+  "count": 10,
+  "news": [
+    {
+      "title": "Apple, Google in talks for Gemini to power iPhone AI features: report",
+      "top_image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/apple-google.jpg?ve=1&tl=1",
+      "images": [
+        "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/532x120-NEWSLETTER_BIZ-Rundown.png",
+        "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/931/523/apple-google.jpg?ve=1&tl=1",
+        "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/92c783cb-047b-4fb3-bb8d-e9eaad9a4b52/dcbc77fb-6434-46e4-ba18-d673f34de53b/1280x720/match/image.jpg",
+        "https://smetrics.foxbusiness.com/b/ss/%OMNITURE_ACCOUNT_ID%/1/H22.1--NS/1518822074763?pageName=technology:subsection:article&g=https://www.foxbusiness.com/technology/apple-google-talks-gemini-power-iphone-ai-features-report",
+        "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/07/931/523/ChatGPT.jpg?ve=1&tl=1",
+        "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/apple-google.jpg?ve=1&tl=1",
+        "https://sb.scorecardresearch.com/p?c1=2&c2=9013181&c3=&c4=https://www.foxbusiness.com/technology/apple-google-talks-gemini-power-iphone-ai-features-report&c5=&c6=&c15=&cv=2.2&cj=1",
+        "https://secure-us.imrworldwide.com/cgi-bin/m?ci=us-201978h&cg=0&cc=1&si=https://www.foxbusiness.com/technology/apple-google-talks-gemini-power-iphone-ai-features-report&ts=noscript&rnd=1518822074763",
+        "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/11/931/523/tim-cook.jpg?ve=1&tl=1"
+      ],
+      "videos": [],
+      "url": "https://www.foxbusiness.com/technology/apple-google-talks-gemini-power-iphone-ai-features-report",
+      "date": "Mon, 18 Mar 2024 19:26:00 GMT",
+      "short_description": "Apple, Google in talks for Gemini to power iPhone AI features: report  Fox BusinessApple Is in Talks to Let Google Gemini Power iPhone AI Features  BloombergWill an Apple-Google AI partnership get past regulators?  MarketWatchAlphabet and Apple Stocks Rise on Report of Talks About AI for iPhones  Barron'sApple's AI ambitions could include Google or OpenAI  The Verge",
+      "text": "Apple is in talks with Google to use its new Gemini artificial intelligence models to power the AI features for iPhones after previously discussing the prospect with ChatGPT maker OpenAI, according to a new report.\n\nCiting people familiar, Bloomberg reported Monday that Apple is in \"active negotiations\" with Alphabet-owned Google's Gemini to run new features coming to iPhone software, but any potential deal would likely not be announced until Apple's Worldwide Development Conference (WWDC) in June.\n\nTicker Security Last Change Change % AAPL APPLE INC. 173.72 +1.10 +0.64% GOOG ALPHABET INC. 148.48 +6.31 +4.44%\n\nNeither Apple nor Google immediately responded to FOX Business' requests for comment on the report.\n\nMICROSOFT TELLS EUROPEAN REGULATORS GOOGLE HAS AN EDGE IN GENERATIVE AI\n\nA possible deal between the firms could help Google expand the use of its AI services to more than 2 billion active Apple devices, boosting the search giant's efforts to catch up with Microsoft-backed OpenAI.\n\nTicker Security Last Change Change % MSFT MICROSOFT CORP. 417.32 +0.90 +0.22%\n\nIt could also help allay investor fears about the slow roll-out of AI apps by Apple, which has lost the crown of the world's most valuable firm after a 10% decline in its shares this year.\n\nIS GOOGLE TOO BROKEN TO BE FIXED? INVESTORS ‘DEEPLY FRUSTRATED AND ANGRY,’ FORMER INSIDER WARNS\n\nThe firms have a years-long partnership that makes Google the default search engine on Apple's Safari web browser, and a genAI tie-up may help the Alphabet unit navigate fears that services like ChatGPT could threaten its search dominance.\n\nBut the agreement could also invite sharper scrutiny from U.S. regulators, who have sued Google alleging it unlawfully stifled competition by paying billions of dollars to Apple to maintain its search dominance.\n\nGOOGLE RELEASES NEW GEMINI UPDATE TO GIVE USERS ‘MORE CONTROL’ OVER AI CHATBOT RESPONSES\n\nApple CEO Tim Cook said last month that the iPhone maker was investing \"significantly\" in generative AI and would reveal more about its plans to put the technology to use later this year.\n\nApple, Inc.\n\nThe Bloomberg report said Apple was planning to use its own homegrown AI models for some new capabilities in its upcoming iOS 18, but was seeking a partner to power genAI features, including functions for creating images and writing essays based on simple prompts.\n\nGET FOX BUSINESS ON THE GO BY CLICKING HERE\n\nReuters contributed to this report.",
+      "publisher": {
+        "href": "https://www.foxbusiness.com",
+        "title": "Fox Business"
+      }
+    },
+    {
+      "title": "Sony Reportedly Halts PSVR2 Production As Headsets Fail To Sell",
+      "top_image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0d2fe63bff34896d06e852cf3a3c13a9.jpg",
+      "images": [
+        "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0d2fe63bff34896d06e852cf3a3c13a9.jpg",
+        "https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/0d2fe63bff34896d06e852cf3a3c13a9.jpg",
+        "https://sb.scorecardresearch.com/p?c1=2&c2=6770184&cv=4.4.0&cj=1"
+      ],
+      "videos": [],
+      "url": "https://kotaku.com/playstation-vr2-headsets-production-sales-halt-sony-1851344240",
+      "date": "Mon, 18 Mar 2024 14:30:00 GMT",
+      "short_description": "Sony Reportedly Halts PSVR2 Production As Headsets Fail To Sell  KotakuSony Hits Pause on PSVR2 Production as Unsold Inventory Piles Up  BloombergSony Reportedly Pauses PlayStation VR2 Production to Clear Backlog of Unsold Units  IGNSony is reportedly pausing PSVR 2 production to clear excess inventory  The VergeSony halts production of another major product it is struggling to sell  TheStreet",
+      "text": "The PlayStation VR2 is struggling, it seems. According to a March 17 Bloomberg report, Sony has paused of the PS5’s virtual reality headset after its initial supply has failed to pick up sales momentum, resulting in an overflow of unsold stock.\n\n\n\nThank You, PS Plus, For Making My Backlog Even Bigger CC Share Subtitles Off\n\nEnglish view video Thank You, PS Plus, For Making My Backlog Even Bigger\n\nBloomberg states that Sony has produced 2 million PSVR2 headsets since the device’s launch in February 2023, with sales consistently declining each quarter, according to the International Data Corporation. This is in line with a January 2023 Bloomberg report of a rough start for Sony’s headset. Even before the PlayStation VR2 was out, Sony was reportedly struggling to meet its own pre-order expectations, though the company later denied this.\n\nAdvertisement\n\nAt a glance, there are a few reasons this might be happening. The PSVR2 headset is expensive, with a higher retail price than the PlayStation 5 itself. VR is still a niche market, primarily because it’s so expensive and also because there aren’t a lot of big games that support it. And speaking from experience, VR headsets are cumbersome to wear and can cause motion sickness in some users. There’s also the fact that the PSVR2 headset is not backwards compatible with the original headset’s games. So there’s a lot working against the device, even though it’s an impressive piece of tech.\n\nAdvertisement\n\nPSVR2 also lacks a major system-selling game. While Horizon: Call of the Mountain put one of Sony’s big franchises on the headset on launch day, much of the device’s line-up falls back on novelty games that make great tech demos, but don’t make a great case for dropping half a grand. The original PSVR sold around 5 million units by 2020, which was a drop in the bucket in terms of attach rate to the 106 million PlayStation 4 consoles sold at the time. Sony has said it’s testing PSVR2 on PC, so maybe it will see an uptick in sales when it’s not tied to specific hardware.\n\nAdvertisement\n\nFor more on the PlayStation VR2, check out Kotaku’s review.",
+      "publisher": {
+        "href": "https://kotaku.com",
+        "title": "Kotaku"
+      }
+    },
+    {
+      "title": "Hackers gave pro players cheats during EA's North American Finals of Apex Legends",
+      "top_image": "https://s.yimg.com/ny/api/res/1.2/RzcSJH.E0OAECxyMZNaE6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/f6243740-735f-11ee-affb-f60dab658742",
+      "images": [
+        "https://s.yimg.com/ny/api/res/1.2/RzcSJH.E0OAECxyMZNaE6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/f6243740-735f-11ee-affb-f60dab658742",
+        "https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif",
+        "https://s.yimg.com/ny/api/res/1.2/nhtsOf2QlPKV6o_G6kN0KA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/os/creatr-uploaded-images/2023-10/f6243740-735f-11ee-affb-f60dab658742",
+        "https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197802876&c7=https%3A%2F%2Fwww.engadget.com%2Fhackers-gave-pro-players-cheats-during-eas-north-american-finals-of-apex-legends-122102739.html&c14=-1",
+        "https://s.yimg.com/ny/api/res/1.2/CgH1XosbzgUdhuX3AFKvjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fimage_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2023-03%252F05295d70-bd25-11ed-beff-9aa9fea26df1%26compress%3D1%26progressive%3D1%26quality%3D75%26client%3Dhawkeye%26signature%3D2f850ca5cd9ee04a54a51211a12b8b8067963bba&compress=1&progressive=1&quality=75&client=hawkeye&signature=7adb5ebac303551a3f2b76b6a955c5848b324c5a"
+      ],
+      "videos": [],
+      "url": "https://www.engadget.com/hackers-gave-pro-players-cheats-during-eas-north-american-finals-of-apex-legends-122102739.html",
+      "date": "Mon, 18 Mar 2024 12:21:02 GMT",
+      "short_description": "Hackers gave pro players cheats during EA's North American Finals of Apex Legends  EngadgetMassive 'Apex Legends' Hack Disrupts NA Finals, Raises Serious Security Concerns  ForbesEasy Anti-Cheat washes its hands of the Apex Legends hacking disaster that saw streamer accounts hijacked live: 'There is no RCE vulnerability within EAC'  PC GamerApex Legends Tournament Postponed After Players Hacked Mid-Game  KotakuHackers Reportedly Hijack Apex Legends Tournament to Deploy Cheats  PCMag",
+      "text": "Respawn, the EA-owned studio behind Apex Legends has postponed the North American Finals tournament after hackers broke into matches and equipped players with cheats. The developer posted to X, formerly Twitter, that the delay has been caused due to the \"competitive integrity of the series being compromised.\" Footage of the hacks, available available on Twitch, gave players the ability to see their opponent's location while notable player ImperialHal was handed an aimbot which artificially improves their aim while playing.\n\nDue to the competitive integrity of this series being compromised, we have made the decision to postpone the NA finals at this time.\n\nWe will share more information soon. — Apex Legends Esports (@PlayApexEsports) March 18, 2024\n\nCheating has been a continual issue for EA — and one that players claim the company is doing little to mitigate. Frustrated posts on EA's general discussion page include statements like \"If EA gonna ban all the cheaters it wouldn't be enough players to play the game,\" and \"The real issue lies in the process of banning/suspending players.\" Other grievances include a focus on profits over experience, such as bumping up the price of skins.\n\nFurthermore, EA laid off five percent of its workforce — about 650 people — at the end of February. Respawn's in-progress Star Wars first-person shooter game was canceled alongside the terminations. At the time CEO Andrew Wilson told employees that EA was \"streamlining our company operations to deliver deeper, more connected experiences for fans everywhere.\"\n\nA new time for the North American Finals of Apex Legends hasn't been announced, but the X post stated that it would \"share more information soon.\" In the meantime, EA and Respawn have to determine how to block the hacker's current access and how to reopen qualifications without risking further hacks.",
+      "publisher": {
+        "href": "https://www.engadget.com",
+        "title": "Engadget"
+      }
+    },
+    {
+      "title": "Apple researchers reveal new AI breakthrough for training LLMs on images and text",
+      "top_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Screenshot-2023-06-05-at-2.00.37-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "images": [
+        "https://9to5mac.com/wp-content/client-mu-plugins/9to5-core/includes/obfuscate-images/images/9to5mac-default.jpg?quality=82&strip=all&w=290&h=145&crop=1",
+        "https://secure.gravatar.com/avatar/8ca0a5473ca1b059b4b0aa628da621ff?s=30&d=mm&r=r",
+        "https://secure.gravatar.com/avatar/8ca0a5473ca1b059b4b0aa628da621ff?s=82&d=mm&r=r",
+        "https://secure.gravatar.com/avatar/4403f5bde9b9dd1799eda1756139557d?s=18&d=mm&r=r",
+        "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/Screenshot-2023-06-05-at-2.00.37-PM.jpg?quality=82&strip=all&w=1600",
+        "https://secure.gravatar.com/avatar/8ca0a5473ca1b059b4b0aa628da621ff?s=18&d=mm&r=r",
+        "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Screenshot-2023-06-05-at-2.00.37-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/apple-airpods-3.jpg?quality=82&strip=all&w=290&h=145&crop=1",
+        "https://secure.gravatar.com/avatar/7eb483ea81412828f92621268e8ca287?s=18&d=mm&r=r",
+        "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/iPad-Pro-2021-Review-Improvements-iPadOS-15-Concept-8.jpg.webp?w=290&h=145&crop=1",
+        "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/iOS-17.4.1-hero.jpg?quality=82&strip=all&w=290&h=145&crop=1",
+        "https://9to5mac.com/wp-content/uploads/sites/6/2023/04/7KOLIDE-50x150_compliance_v1-1-copy.jpg?quality=82&strip=all",
+        "https://9to5mac.com/wp-content/uploads/sites/6/2024/01/Overtime-Podcast-FI.png?w=290&h=145&crop=1",
+        "https://secure.gravatar.com/avatar/b10ae05b0de7ef1d0972d92ef3972fef?s=18&d=mm&r=r"
+      ],
+      "videos": [],
+      "url": "https://9to5mac.com/2024/03/18/apple-ai-llm-technology-models/",
+      "date": "Mon, 18 Mar 2024 16:29:00 GMT",
+      "short_description": "Apple researchers reveal new AI breakthrough for training LLMs on images and text  9to5MacApple is getting serious about AI  CNNApple's Subtle Pitch to AI Researchers; Index Backs Former YouTube AI Manager in Latest 'Vector Embedding' Deal  The InformationApple Publishes Details About New 'MM1' AI Model  MacRumorsiOS 18: Here are the new AI features in the works  9to5Mac",
+      "text": "In a new paper published this month, Apple researchers reveal that they have developed new methods for training large language models using both text and visual information. According to Apple’s researchers, this represents a way to obtain state-of-the-art results.\n\nAs first spotted by VentureBeat, the idea of the research is to demonstrate “how carefully combining different types of training data and model architectures can lead to state-of-the-art performance on a range of AI benchmarks.”\n\nThe paper was published last week and is titled “MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training.” Apple researchers explain in the paper’s abstract:\n\nIn this work, we discuss building performant Multimodal Large Language Models (MLLMs). In particular, we study the importance of various architecture components and data choices. Through careful and comprehensive ablations of the image encoder, the vision language connector, and various pre-training data choices, we identified several crucial design lessons. For example, we demonstrate that for large-scale multimodal pre-training using a careful mix of image-caption, interleaved image-text, and text-only data is crucial for achieving state- of-the-art (SOTA) few-shot results across multiple benchmarks, compared to other published pre-training results.\n\nMM1 is described as a “family of multimodal models” that are state-of-the-art and have “appealing properties such as enhanced in-context learning, and multi-image reasoning, enabling few-shot chain-of-thought prompting.”\n\nThe in-context learning capabilities of the MM1 model are particularly impressive:\n\nMM1 can perform in-context predictions thanks to its large-scale multimodal pre-training. This allows MM1 to (a) count objects and follow custom formatting, (b) refer to parts of the images and perform OCR, (c) demonstrate common-sense and word knowledge about everyday objects, and (d) perform basic math functions. Images are from the COCO 2014 validation set.\n\nThe researchers conclude that this model family “produces competitive performance on a wide range of benchmarks, while enabling multi-image reasoning and few-shot prompting.”\n\nRead more:",
+      "publisher": {
+        "href": "https://9to5mac.com",
+        "title": "9to5Mac"
+      }
+    },
+    {
+      "title": "LinkedIn wants a piece of Wordle’s success",
+      "top_image": "https://techcrunch.com/wp-content/uploads/2021/03/linkedin-clubhouse-wave.jpg?resize=1200,675",
+      "images": [
+        "https://techcrunch.com/wp-content/uploads/2021/03/linkedin-clubhouse-wave.jpg?resize=1200,675"
+      ],
+      "videos": [],
+      "url": "https://techcrunch.com/2024/03/18/linkedin-wants-a-piece-of-wordles-success/",
+      "date": "Mon, 18 Mar 2024 14:42:58 GMT",
+      "short_description": "LinkedIn wants a piece of Wordle’s success  TechCrunchLinkedIn is developing in-app games to further distract you from your job hunt  EngadgetLinkedIn Is Getting Into Gaming  GameSpotLinkedIn adding games, with leaderboards ranking companies by employee scores  Eurogamer.netNeed a distraction from work? LinkedIn might add games with company leaderboard rankings  ZDNet",
+      "text": "Hello, and welcome back to Equity, the podcast about the business of startups, where we unpack the numbers and nuance behind the headlines.\n\nThis is our Monday show, in which we take a look back at the weekend and what’s ahead in the week. We’re coming to the end of earnings season, which means that there are just a few weeks left in the first quarter.\n\nWith spring in the air, here’s what we got into this morning:",
+      "publisher": {
+        "href": "https://techcrunch.com",
+        "title": "TechCrunch"
+      }
+    },
+    {
+      "title": "PlayStation 5 Pro leaked specs appear online",
+      "top_image": "https://assetsio.gnwcdn.com/ps5_lTI3t9Q.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "images": [
+        "https://assetsio.gnwcdn.com/tom-phillips.jpg?width=70&height=70&fit=crop&quality=60&format=png&auto=webp",
+        "https://assetsio.gnwcdn.com/ps5_lTI3t9Q.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "https://assetsio.gnwcdn.com/Dragons-Dogma-2_Bjlxze2.jpg?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://assets.gnwcdn.com/0352_eurogamer-logo.svg",
+        "https://assetsio.gnwcdn.com/AdobeStock_164314960.png?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://news.google.com/static/8bf20aa9b2b1b30da62aa043085cbfd3/vendor/img/gi-jobs-board-logo.svg",
+        "https://assetsio.gnwcdn.com/Baldurs-Gate-3-header.jpg?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://assetsio.gnwcdn.com/gog-multi-device-art.jpg?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://assetsio.gnwcdn.com/ss_486a3728c3b487f04739b507121e65236ac4b2ce.jpg?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://assets.gnwcdn.com/0352_eurogamer-logo-inverse.svg",
+        "https://assetsio.gnwcdn.com/poker-themed-rogue-like-Balatro.png?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://assetsio.gnwcdn.com/dark-souls-archthrones.png?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://assetsio.gnwcdn.com/steam-families-library-view.png?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://assetsio.gnwcdn.com/0580_smart-slot-for_you.png?width=192&height=192&fit=bounds&quality=80&format=png&auto=webp",
+        "https://assetsio.gnwcdn.com/ps5_lTI3t9Q.jpg?width=690&quality=75&format=jpg&auto=webp"
+      ],
+      "videos": [],
+      "url": "https://www.eurogamer.net/playstation-5-pro-leaked-specs-appear-online",
+      "date": "Mon, 18 Mar 2024 13:01:05 GMT",
+      "short_description": "PlayStation 5 Pro leaked specs appear online  Eurogamer.netEXCLUSIVE - More PlayStation 5 Pro Specs Detailed  Insider GamingWe Finally Have Specs for the PS5 Pro  ExtremeTechPS5 Pro Specs Leak Online  IGNSony's PS5 Pro is up to three times faster, may arrive holiday 2024  The Verge",
+      "text": "Leaked specifications for Sony's unannounced PlayStation 5 Pro console have been posted online, and show the upgrades present in the souped-up console expected to launch later this year.\n\nEurogamer understands these specifications - first reported on YouTube by Moore's Law is Dead - to be legitimate and sourced from Sony's own internal developer network, to which numerous partners have access to. The specs have since been reported on and also corroborated by Insider Gaming and IGN.\n\nAs you'd expect, the specs show a boost to the PS5 Pro's system memory and GPU. The machine's CPU remains identical to the base PS5, but now boasts a 'High CPU Frequency Mode' which is said to add a 10 percent speed increase, albeit with a slight one percent reduction to GPU performance.\n\nTo see this content please enable targeting cookies. Manage cookie settings Newscast: Where does Nintendo go next for the Super Mario Bros. Movie 2?Watch on YouTube\n\nAs with the recent updated PS5 \"Slim\" model, the Pro will also feature support for a detachable disc drive, and offer 1TB of onboard SSD storage.\n\nThe leaked PS5 Pro specs lie below:\n\nMemory: 576 GB/s (18GT/s), up 28% from 448GB/s (14GT/s)\n\nCPU: 3.85GHz, up 10% using High CPU Frequency Mode\n\nGPU: 33.5 teraflops\n\nIt should be noted that a direct comparison between PS5 and PS5 Pro isn't possible (the PS5 had 10.28 teraflops, though using a different form of AMD architecture). The estimated increase here is around 45 percent.\n\nThe GPU is also said to offer PSSR (PlayStation Spectral Super Resolution Upscaling) upscaling and anti-aliasing tech, custom machine learning architecture and an AI Accelerator.\n\nSony is yet to announce the PS5 Pro, though the hardware is now widely expected. Last month, a CNBC report stated there was now \"broad concensus in the game industry that Sony is indeed preparing a launch of a PS5 Pro in the second half of 2024,\" quoting Tokyo-based games analyst Serkan Toto.\n\nLooking further back, rumours of a PS5 Pro originally spread last summer - which Digital Foundry analysed at the time.\n\nMicrosoft has now confirmed it will launch new Xbox console hardware later this year - though there's been no suggestion to date that it will include a hardware boost from the base Xbox Series X/S. Speaking to Eurogamer last year, Xbox boss Phil Spencer noted that frequent changes in hardware specs meant \"a ton of complexity for creators and players in something that used to be very simple\".\n\nAs for Nintendo, Eurogamer reported last month that the launch of Nintendo Switch 2 had been internally delayed, and will now arrive in 2025.",
+      "publisher": {
+        "href": "https://www.eurogamer.net",
+        "title": "Eurogamer.net"
+      }
+    },
+    {
+      "title": "Qualcomm’s new 8S Gen 3 targets not-quite flagship phones",
+      "top_image": "https://cdn.vox-cdn.com/thumbor/W98XlSnPEoK7lL2nUoIq7X8CQDQ=/0x0:2000x1323/1200x628/filters:focal(1000x662:1001x663)/cdn.vox-cdn.com/uploads/chorus_asset/file/25338088/Snapdragon_8s_Gen_3___Key_Visual.jpg",
+      "images": [
+        "https://duet-cdn.vox-cdn.com/thumbor/0x0:2000x1125/2400x2400/filters:focal(1000x563:1001x564):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25339819/Starship_Home.png",
+        "https://duet-cdn.vox-cdn.com/thumbor/333x257:1654x1344/2400x2400/filters:focal(1067x1143:1068x1144):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/22046478/vpavic_4291_20201113_0335.0.jpg",
+        "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x2400/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25330839/STK262_GROK_B.png",
+        "https://news.google.com/icons/native-ad-placeholder.png",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "https://cdn.vox-cdn.com/thumbor/W98XlSnPEoK7lL2nUoIq7X8CQDQ=/0x0:2000x1323/1200x628/filters:focal(1000x662:1001x663)/cdn.vox-cdn.com/uploads/chorus_asset/file/25338088/Snapdragon_8s_Gen_3___Key_Visual.jpg",
+        "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x2400/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25338350/2024_03_15_INSTALLER.jpg",
+        "https://duet-cdn.vox-cdn.com/thumbor/0x0:2000x1323/2400x1600/filters:focal(1000x662:1001x663):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25338088/Snapdragon_8s_Gen_3___Key_Visual.jpg"
+      ],
+      "videos": [],
+      "url": "https://www.theverge.com/2024/3/18/24101903/qualcomm-snapdragon-8s-gen-3-chipset-on-device-ai",
+      "date": "Mon, 18 Mar 2024 06:30:00 GMT",
+      "short_description": "Qualcomm’s 8S Gen 3 targets more affordable high-end phones  The VergeQualcomm debuts AI-focused Snapdragon 8s Gen 3 chip  Yahoo FinanceQualcomm's “Snapdragon 8s Gen 3” cuts down the company's flagship SoC  Ars TechnicaHope Your Next Mid-Range Phone Runs Qualcomm's Latest  Droid LifeQualcomm unveils Snapdragon 8s Gen 3 with Eye-of-Sauron camera  The Register",
+      "text": "Qualcomm just launched a new chipset that’s designed to sit just below its current flagship in terms of capabilities and price. The Snapdragon 8S Gen 3 aims to bring most of the 8 Gen 3’s features — including support for on-device generative AI models — to more affordable phones. It represents a new tier for the top-of-the-line 8-series chips, and it’s also a little bit confusing.\n\nBefore we get into all that, let’s start with the straightforward stuff: the 8S Gen 3 includes a GPU similar to the standard 8 Gen 3, though it has one less performance core and runs at a lower frequency — the prime core runs at up to 3.0GHz versus 3.4GHz on the 8 Gen 3. The new 8S Gen 3 also uses a previous-gen modem, the X70 5G, which includes Wi-Fi 7 support. There’s also support for hardware-accelerated ray tracing so photorealistic games run more smoothly, which seems to be kind of a benchmark of phone flagship-iness these days.\n\nNaturally, there’s AI. The 8S Gen 3 supports multimodal generative AI on-device and can run large language models of up to 10 billion parameters — that includes the likes of Llama 2 and Gemini Nano. It doesn’t offer all of the AI capabilities of the Snapdragon 8 Gen 3, but it does support gen AI virtual assistants and image expansion.\n\nThe way Qualcomm’s Deepu John, senior director of product management, explains it, each Snapdragon high-level tier can be broken down into three sub-categories. There are Snapdragon 8, 7, 6, and 4 series chipsets, and within those, up to three different offerings. This “S” series chip sits just below the standard 8 Gen 3, and if Qualcomm ever releases an 8 Plus Gen 3, it would sit on top.\n\nNaturally, there’s AI\n\nGot it? Great, it gets even more confusing when you remember that phone manufacturers are still using 2022’s flagship, the Snapdragon 8 Gen 2 in not-quite flagship phones like the OnePlus 12R. There’s also the Snapdragon 7 Gen 3 sitting just below the 8S Gen 3, though it has only turned up in a handful of phones. Qualcomm seems to be slicing the high-end phone market awfully thin, maybe in an attempt to keep OEMs from turning to MediaTek for their less-than-flagship devices.",
+      "publisher": {
+        "href": "https://www.theverge.com",
+        "title": "The Verge"
+      }
+    },
+    {
+      "title": "AI already used by 62% of studios, Unity report claims",
+      "top_image": "https://assetsio.gnwcdn.com/AdobeStock_164314960.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "images": [
+        "https://assetsio.gnwcdn.com/1639412577.jpg?width=70&height=70&fit=crop&quality=60&format=png&auto=webp",
+        "https://assetsio.gnwcdn.com/Dragons-Dogma-2_Bjlxze2.jpg?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://assets.gnwcdn.com/0352_eurogamer-logo.svg",
+        "https://news.google.com/static/8bf20aa9b2b1b30da62aa043085cbfd3/vendor/img/gi-jobs-board-logo.svg",
+        "https://assetsio.gnwcdn.com/AdobeStock_164314960.png?width=690&quality=75&format=jpg&auto=webp",
+        "https://i.ytimg.com/vi/9ScDpS3rrhY/hqdefault.jpg",
+        "https://assetsio.gnwcdn.com/ps5_lTI3t9Q.jpg?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://assetsio.gnwcdn.com/thefinals.jpg?width=690&quality=75&format=jpg&auto=webp",
+        "https://assetsio.gnwcdn.com/Baldurs-Gate-3-header.jpg?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://assetsio.gnwcdn.com/AdobeStock_164314960.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "https://assetsio.gnwcdn.com/gog-multi-device-art.jpg?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://assetsio.gnwcdn.com/ss_486a3728c3b487f04739b507121e65236ac4b2ce.jpg?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://assets.gnwcdn.com/0352_eurogamer-logo-inverse.svg",
+        "https://assetsio.gnwcdn.com/poker-themed-rogue-like-Balatro.png?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://assetsio.gnwcdn.com/dark-souls-archthrones.png?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://assetsio.gnwcdn.com/steam-families-library-view.png?width=291&height=164&fit=crop&quality=80&format=jpg&auto=webp",
+        "https://assetsio.gnwcdn.com/0580_smart-slot-for_you.png?width=192&height=192&fit=bounds&quality=80&format=png&auto=webp"
+      ],
+      "videos": [
+        "https://www.youtube-nocookie.com/embed/9ScDpS3rrhY?autoplay=1"
+      ],
+      "url": "https://www.eurogamer.net/ai-already-used-by-62-of-studios-unity-report-claims",
+      "date": "Mon, 18 Mar 2024 13:34:07 GMT",
+      "short_description": "AI already used by 62% of studios, Unity report claims  Eurogamer.net'Games made by soulless machines': Tech sparks debate over AI stories in video games  NPR2024 Unity Gaming Report indicates 62 percent of devs are currently using AI tools  Game DeveloperTo understand the future of generative AI, we need better language to describe it  Rock Paper ShotgunXbox: AI's influence and future are unwritten  GamesIndustry.biz",
+      "text": "AI may seem like something of a dirty word at the moment, but 62 percent of studios are using AI at some point during game development.\n\nThat's according to a new report by game engine maker Unity, which reveals that more and more development studios are adopting AI tools to make time and efficiency savings.\n\nIn 2022 the average time to launch for games was 218 days; now it's 304 days, the report states. 71 percent of studios responding to the survey said AI had improved their delivery and operations, to reduce that time to launch.\n\nNewscast: Why are there so many games industry layoffs? Newscast: Why are there so many video game industry layoffs?\n\nSo what exactly is AI being used for? The number one use of AI is for improving character animations, followed by writing code - or at least speeding up the process. That's closely followed by both generating art and levels, writing and narrative design, and automated playtesting.\n\nA key reason for using AI is to shorten the time spent prototyping. The report states that 68 percent of developers surveyed chose to use AI to speed up prototyping. In 2023, 96 percent of studios spent three months or less prototyping in comparison to 85 percent the year prior when it took longer.\n\nAnother area for AI usage is for world building, utilised by 56 percent of AI adopters. Of those, 64 percent used AI to develop NPCs to populate worlds.\n\nThis is matched by a further report from Inworld, an AI company that last year partnered with Microsoft to offer AI tools to developers.\n\nAccording to Inworld, 3-in-4 developers are \"excited\" about AI NPCs. It reported generative animations and textures are the most likely AI tools to be adopted, followed by AI created NPCs. Almost half of the developers surveyed by Inworld believe over 40 percent of studios will adopt AI NPCs.\n\nOn the flip side, are there reasons against using AI? Unity's report states 43 percent of developers surveyed who are hesitant about AI are interested but don't have the time, while 24 percent don't have the technical knowhow. The remainder of respondents either didn't know AI was possible, or didn't know its purpose. Only three percent selected \"Other\", which may have included more ethical reasoning.\n\nUnity's report is based on data from developers using its engine and tools, as well as a survey from market research firm Cint in 2023 with 300 respondents. It should be noted this survey is likely skewed towards smaller, mobile projects using Unity that may be more likely to implement AI solutions.\n\nThe Finals was criticised for its use of AI voice acting. | Image credit: Embark Studios\n\nThe results here from Unity on AI adoption is slightly higher than a recent GDC survey, which surveyed not just developers but workers across the industry. More broadly, then, 31 percent of industry workers used generative AI tools, with 44 percent of those being in business and finance.\n\nFrom the GDC survey, developers working in narrative, art, and QA were more likely to say AI would have a negative impact on the industry, while workers in business, marketing, and programming were more positive.\n\nIt's clear, then, that AI is already widely used across the games industry and that's only set to increase as the cost and time expense of development rises. It's one of the major reasons the industry is suffering layoffs at present.\n\nBut will AI completely replace humans? That seems unlikely. As Game Developer recently reported, solutions provider Keywords attempted to make a 2D game relying solely on generative AI tools. The experiment utilised over 400 different tools to see how they might \"augment\" development.\n\nHowever, ultimately it found that humans are irreplaceable. \"Whilst the project team started small, it identified over 400 tools, evaluating and utilising those with the best potential. Despite this, we ultimately utilised bench resource from seven different game development studios as part of the project, as the tooling was unable to replace talent,\" said Keywords CEO Bertrand Bodson.\n\n\"One of the key learnings was that whilst GenAI may simplify or accelerate certain processes, the best results and quality needed can only be achieved by experts in their field utilising GenAI as a new, powerful tool in their creative process.\"\n\nStill, it appears that the response to AI is slowly becoming more positive. AI was a major talking point at last year's GDC, with many responding with \"reverence and rage\" as Eurogamer's Chris Tapsell reported at the time. These recent reports suggest views may be softening.\n\nOne area where AI is still viewed particularly negatively is voice acting. Actors are standing up to the rise in AI, especially when used for deepfake mods. It's something both UK actor's union Equity and US union SAG-AFTRA need to stand against to protect the work of actors.\n\nIn September 2023 SAG-AFTRA members overwhelmingly voted in favour of a strike and then, at the start of this year, a new AI agreement was introduced, sparking concern among the acting community. A strike against game companies is now likely.\n\nThe Finals developer Embark Studios was criticised for its use of AI voice acting in the online shooter, though in a statement it said \"making games without actors isn't an end goal for Embark\".",
+      "publisher": {
+        "href": "https://www.eurogamer.net",
+        "title": "Eurogamer.net"
+      }
+    },
+    {
+      "title": "Google Phone app removes Nearby places search",
+      "top_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-phone-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "images": [
+        "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/Google-Phone-Nearby-Places.png?ssl=1",
+        "https://9to5google.com/wp-content/client-mu-plugins/9to5-core/includes/obfuscate-images/images/9to5google-default.jpg?quality=82&strip=all&w=290&h=145&crop=1",
+        "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/03/google-phone-nearby-search.jpg?ssl=1",
+        "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Google-Pixel-lineup.jpg?quality=82&strip=all&w=290&h=145&crop=1",
+        "https://secure.gravatar.com/avatar/c7bd03399d670505a359b604ecd3a0ca?s=18&d=mm&r=r",
+        "https://9to5google.com/wp-content/uploads/sites/4/2024/03/google-fitbit-cover.png?w=290&h=145&crop=1",
+        "https://9to5google.com/wp-content/uploads/sites/4/2024/03/samsung-galaxy-s24-1.jpg?quality=82&strip=all&w=290&h=145&crop=1",
+        "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-phone-logo-circle-3.jpg?quality=82&strip=all&w=1600",
+        "https://secure.gravatar.com/avatar/ba5acd965e31e2bfe2fbd4e37d8f68b9?s=82&d=mm&r=r",
+        "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-phone-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "https://secure.gravatar.com/avatar/ba5acd965e31e2bfe2fbd4e37d8f68b9?s=18&d=mm&r=r",
+        "https://i1.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/Google-Phone-Nearby-Places-2.jpg?ssl=1",
+        "https://i1.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/Google-Phone-Nearby-Places-1.jpg?ssl=1",
+        "https://secure.gravatar.com/avatar/53c3eccb0df53253da7fb21049b682a7?s=18&d=mm&r=r",
+        "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&w=290&h=145&crop=1",
+        "https://secure.gravatar.com/avatar/ba5acd965e31e2bfe2fbd4e37d8f68b9?s=30&d=mm&r=r",
+        "https://9to5google.com/wp-content/uploads/sites/4/2023/08/Android-3D-logo-2023-full.jpg?quality=82&strip=all&w=290&h=145&crop=1"
+      ],
+      "videos": [],
+      "url": "https://9to5google.com/2024/03/16/google-phone-nearby-places-search/",
+      "date": "Sun, 17 Mar 2024 03:55:00 GMT",
+      "short_description": "Google Phone app removes Nearby places search  9to5GoogleGoogle's phone app no longer searches Google Maps  Ars TechnicaGoogle Phone app loses the Nearby Places search feature on Android  PhoneArenaGoogle Phone app discontinues Nearby Places search feature: Here's why  NewsBytes",
+      "text": "As previewed in early February, the Google Phone dialer app has removed the Nearby places search feature on Android.\n\nPhone by Google no longer lets you look for businesses using the search field at the top of the app. In fact, the hint has been updated from “Search contacts & places” to just “Search contacts.”\n\nAdditionally, “Nearby places” no longer appears in settings. The feature would use your location to take into account what was in close proximity. Additionally, enabling “Personalized search results” would “Improve your search results by including items from your search history.”\n\nSome people appreciated the convenience, but Google says “only a very small number of people use this feature.” In our experience, it wasn’t always accurate.\n\nGoogle is officially directing people to use Search or Maps for phone numbers. This removal will let Google “focus on building the highest quality, most reliable, and most innovative experiences in phone calling.”\n\nFor example, in 2023 we launched new Call Screen AI features, Hold For Me and Direct My Call support in additional countries, and Call Screen transcripts on your Pixel Watch. There’s a lot more planned for 2024, and our team will be working hard throughout the year to launch and improve even more ways to help your phone calling experience!\n\nWith the last Pixel Feature Drop, Call Screen will offer a “Hello?” button if the line is silent to prompt the caller. There’s also “I’ll be right there” — “One sec, checking with the person you called” — to give you more time before answering\n\nBack in February, Nearby places was already gone for those using the Phone by Google beta. It no longer appears with the latest stable release (version 125).\n\nMore on Google Phone:",
+      "publisher": {
+        "href": "https://9to5google.com",
+        "title": "9to5Google"
+      }
+    },
+    {
+      "title": "The Google Pixel 7a drops to a record low of $374 ahead of the Amazon Big Spring Sale",
+      "top_image": "https://s.yimg.com/ny/api/res/1.2/lvioyQgDlNDw8SyTMKy.VA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/a20ad2f0-ee0c-11ed-97ea-fc6eaf588b39",
+      "images": [
+        "https://s.yimg.com/ny/api/res/1.2/aIbTA.bfjP9IPNUswaWmCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDtoPTE4MA--/https://s.yimg.com/uu/api/res/1.2/QTCc_zstfse4kuwglcYf8w--~B/aD03MjA7dz05NTc7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/a47bdc10-e527-11ee-92fb-342efdf65e50",
+        "https://s.yimg.com/os/creatr-uploaded-images/2023-09/72819a70-4d9b-11ee-97ef-bc308af496e0",
+        "https://s.yimg.com/ny/api/res/1.2/w1FXZMZfWMJl7wndKV04Zg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDtoPTE4MA--/https://s.yimg.com/uu/api/res/1.2/hK4p4FUuVSYDjsbE6WKVcA--~B/aD03MjA7dz05NTc7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/b526d3d0-e527-11ee-af7f-e4477cc2cc49",
+        "https://s.yimg.com/ny/api/res/1.2/M4D5uemC3ZVWUqw8jO8MvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/e526b560-aa57-11ee-b6ff-d09bf54b1083",
+        "https://s.yimg.com/uu/api/res/1.2/43sh2sv37ckKbwWXl0TRwA--~B/Zmk9c3RyaW07aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-03/df5af730-e527-11ee-bfd7-ea22dfff4dfd",
+        "https://s.yimg.com/ny/api/res/1.2/AQnhcpGQn_mLUExmyjEmXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU3Ng--/https://s.yimg.com/os/creatr-uploaded-images/2023-05/a20ad2f0-ee0c-11ed-97ea-fc6eaf588b39",
+        "https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif",
+        "https://s.yimg.com/ny/api/res/1.2/lvioyQgDlNDw8SyTMKy.VA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/a20ad2f0-ee0c-11ed-97ea-fc6eaf588b39",
+        "https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197802876&c7=https%3A%2F%2Fwww.engadget.com%2Fthe-google-pixel-7a-drops-to-a-record-low-of-374-ahead-of-the-amazon-big-spring-sale-131529572.html&c14=-1"
+      ],
+      "videos": [],
+      "url": "https://www.engadget.com/the-google-pixel-7a-drops-to-a-record-low-of-374-ahead-of-the-amazon-big-spring-sale-131529572.html",
+      "date": "Mon, 18 Mar 2024 13:15:29 GMT",
+      "short_description": "The Google Pixel 7a drops to a record low of $374 ahead of the Amazon Big Spring Sale  EngadgetPixel 8 deal brings it under $500 for the first time  The VergeGoogle Pixel 8 Pro new all-time low live at $749 (Save $250), Pixel 8 starts at $499  9to5ToysUnbeatable Deal: Upgrade to Google's Latest Pixel Phones Now  CNETAmazon drops the Google Pixel 8 and Pixel 8 Pro to a record-breaking low price  TechRadar",
+      "text": "Engadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission. Read more about how we evaluate products.\n\nAndroid fans looking for a reasonably priced phone to upgrade to are in luck thanks to the Amazon Big Spring Sale. Although the event doesn't officially start until March 20, we're already seeing early deals pop up on Amazon. One of which is the Google Pixel 7a, which has dropped to a record low price of $374. We've seen the handset drop to this price before, but as of late, it's been hovering around its regular price of $499.\n\nThe Pixel 7a has sat at the top of our best midrange phones list since it came out last year and it offers a ton of value even at its standard price. It runs on Google's Tensor G2 chip, which gives it solid performance considering its cost, and it has a lovely 6.1-inch, 90Hz OLED touchscreen and support for wireless charging. Its design looks very similar to the flagship Pixel series phones and it has an IP67 rating for water resistance.\n\nBut the camera array makes the Pixel 7a truly stand out among other phones in its price range, and certainly among budget Android phones that typically come in at around $350. The 64-megapixel rear shooter takes impressive images that preserve details and highlights, and Google's Night Sight mode allows it to take solid low-light images. The 13MP selfie camera can record 4K videos, too. While the Pixel 7a suffers a bit from its lack of dedicated zoom and telephoto lenses, those are relatively small sacrifices to make when you're getting an otherwise stellar camera system for the price.\n\nUltimately, the Pixel 7a is the smartphone to get if you want the best value Android handset and don't want to spend more than a few hundred dollars. Snagging it while it's under $400 during this sale means you're getting it at the best price we've seen, making it an even better buy. However, we'd be remiss if we didn't mention the concurrent sales on the Google Pixel 8 and 8 Pro — those are up to $250 off right now, down to $499 and $749, respectively. These are the best Android phones you can buy right now, period, and both offer Google's Tensor G3 chipset, a more refined design, long battery life and useful AI features that make taking photos and using the Google Assistant much better.\n\nGoogle Pixel 8 $499 $699 Save $200 See at Amazon\n\nGoogle Pixel 8 Pro $749 $999 Save $250 See at Amazon\n\nYour Spring Sales Shopping Guide: Spring sales are in the air, headlined by Amazon’s Big Spring sale event. Our expert editors are curating all the best spring sales right here. Follow Engadget to shop the best tech deals from Amazon’s Big Spring Sale, hear from Autoblog’s car experts on the best spring auto deals on Amazon, and find spring sales to shop on AOL, handpicked just for you.",
+      "publisher": {
+        "href": "https://www.engadget.com",
+        "title": "Engadget"
+      }
+    }
+  ]
+}
